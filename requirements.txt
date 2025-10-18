@@ -1,0 +1,5 @@
+PySide6
+pydub
+numpy<2.0
+PyAudio
+librosa
